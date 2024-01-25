@@ -81,6 +81,8 @@ streamlit run app.py
 ```
 View your Streamlit app in your browser using the Local URL: http://localhost:8501
 
+![Demo](path/to/your/demo.gif)
+
 
 
 
